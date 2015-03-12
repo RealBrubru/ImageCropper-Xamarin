@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImageCropper", "ImageCropper\ImageCropper.csproj", "{A550634F-DB28-4C7D-85B1-65C8EEAF8590}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImageCropperExample", "ImageCropperExample\ImageCropperExample.csproj", "{276C0C18-C0B1-4058-921C-84E71D93B193}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{276C0C18-C0B1-4058-921C-84E71D93B193}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{276C0C18-C0B1-4058-921C-84E71D93B193}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{276C0C18-C0B1-4058-921C-84E71D93B193}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{276C0C18-C0B1-4058-921C-84E71D93B193}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A550634F-DB28-4C7D-85B1-65C8EEAF8590}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A550634F-DB28-4C7D-85B1-65C8EEAF8590}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A550634F-DB28-4C7D-85B1-65C8EEAF8590}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A550634F-DB28-4C7D-85B1-65C8EEAF8590}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
